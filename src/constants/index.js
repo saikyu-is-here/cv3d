@@ -84,22 +84,17 @@ export const myProjects = [
       },
       {
         id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
+        name: 'vite',
+        path: '/assets/vite.png',
       },
     ],
   },
   {
-    title: 'LiveDoc - Real-Time Google Docs Clone',
-    desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
+    title: 'login page v1',
+    desc: 'A modern and responsive login page developed using HTML, CSS, and JavaScript, designed to provide a secure and user-friendly authentication interface. This page serves as the entry point for users, allowing them to access their accounts with ease',
     subdesc:
-      'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-    href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+      'A responsive login page built with HTML for structure, CSS for styling, and JavaScript for validation and interactivity. It includes form validation, password visibility toggle, and real-time feedback, ensuring a user-friendly and secure authentication experience. ',
+    href: 'https://saikyu-is-here.github.io/login-page.v1/',
     texture: '/textures/project/project2.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {
@@ -111,32 +106,28 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
+        name: 'JavaScript',
+        path: '/assets/JavaScript.png',
       },
       {
         id: 2,
-        name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
+        name: 'css',
+        path: 'assets/CSS.png',
       },
       {
         id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
+        name: 'HTML',
+        path: '/assets/HTML.png',
       },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
-      },
+
     ],
   },
   {
-    title: 'CarePulse - Health Management System',
-    desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
+    title: 'gaming website',
+    desc: 'Build a visually captivating website inspired by Zentry, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner',
     subdesc:
-      'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-    href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+      'With a focus on efficiency, CarePulse integrantes complex forms, by using React.js, GSAP, Twillio and Sentry that enhance operational workflows.',
+    href: 'https://github.com/saikyu-is-here/gaming-websit.git',
     texture: '/textures/project/project3.mp4',
     logo: '/assets/project-logo3.png',
     logoStyle: {
@@ -158,24 +149,14 @@ export const myProjects = [
         name: 'TailwindCSS',
         path: 'assets/tailwindcss.png',
       },
-      {
-        id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
-      },
     ],
   },
   {
-    title: 'Horizon - Online Banking Platform',
-    desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+    title: 'robo frind',
+    desc: 'RoboFrind is a dynamic social platform designed for robot enthusiasts, developers, and hobbyists to connect, collaborate, and share innovations. Built with React for a seamless frontend experience, the platform integrates a custom Intelligent Personal Assistant (IPA) to enhance user interactions through AI-driven suggestions, voice commands, and automated workflows.',
     subdesc:
-      'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-    href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+      'The website emphasizes community-driven robotics projects, real-time collaboration, and AI-powered tools to simplify robot development, troubleshooting, and knowledge sharing.',
+    href: 'https://github.com/saikyu-is-here/robofrinds.git',
     texture: '/textures/project/project4.mp4',
     logo: '/assets/project-logo4.png',
     logoStyle: {
@@ -190,29 +171,14 @@ export const myProjects = [
         name: 'React.js',
         path: '/assets/react.svg',
       },
-      {
-        id: 2,
-        name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
-      },
-      {
-        id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
-      },
     ],
   },
   {
-    title: 'Imaginify - AI Photo Manipulation App',
-    desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
+    title: 'E-SKILLS-AKADMY',
+    desc: 'This project is a Learning Management System (LMS) built with React.js for the frontend, Spring Boot for the backend, and MySQL as the database. It provides a comprehensive platform for managing online courses, user profiles, assessments, progress tracking, and more.',
     subdesc:
-      'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-    href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+      'Built with react ',
+    href: 'https://github.com/saikyu-is-here/E-SKILLS-AKADMY.git',
     texture: '/textures/project/project5.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
@@ -234,14 +200,10 @@ export const myProjects = [
       },
       {
         id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
+        name: 'springboot',
+        path: '/assets/springboot.png',
       },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
-      },
+
     ],
   },
 ];
@@ -260,29 +222,24 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
-    name: 'Framer',
-    pos: 'Lead Web Developer',
-    duration: '2022 - Present',
-    title: "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
+    name: 'UNIVERSITE POLYTECHNIQUE\n' +
+        'HDF',
+    pos: 'Web Developer',
+    duration: ' 2023/2024',
+    title: "PROFESSIONAL LICENSE IN IT\n" +
+        "PROFESSIONS:",
     icon: '/assets/framer.svg',
-    animation: 'victory',
+    animation: 'salute',
   },
   {
     id: 2,
-    name: 'Figma',
-    pos: 'Web Developer',
-    duration: '2020 - 2022',
-    title: "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
+    name: 'ENSI Tanger, Maroc',
+    pos: 'Web Developer & mobil',
+    duration: '2022 - 2024',
+    title: " PROFESSIONAL LICENSE IN\n" +
+        "WEB AND\n" +
+        "MOBILE DEVELOPMENT",
     icon: '/assets/figma.svg',
     animation: 'clapping',
-  },
-  {
-    id: 3,
-    name: 'Notion',
-    pos: 'Junior Web Developer',
-    duration: '2019 - 2020',
-    title: "Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.",
-    icon: '/assets/notion.svg',
-    animation: 'salute',
   },
 ];
